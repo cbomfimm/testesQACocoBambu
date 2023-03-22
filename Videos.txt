@@ -1,0 +1,7 @@
+Vídeos dos testes automatizados rodando.
+
+Desafio QA - Coco Bambu - Cauã Bomfim - Vídeo 01 (Automação da parte de Cadastro)
+https://youtu.be/e0Coel-_E2M
+
+Desafio QA - Coco Bambu - Cauã Bomfim - Vídeo 02 (Automação da parte de Login/Recuperação de Senha)
+https://youtu.be/B5hsqllRGoc
